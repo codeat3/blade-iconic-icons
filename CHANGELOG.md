@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.2.0 (2021-05-27)
+Current package support [Iconic Icons v1.3.0](https://github.com/Make-Lemonade/iconicicons/releases/tag/1.3.0)
+
 ## 1.1.0 (2021-05-14)
 Current package support [Iconic Icons v1.2.1](https://github.com/Make-Lemonade/iconicicons/releases/tag/1.2.1)
 
